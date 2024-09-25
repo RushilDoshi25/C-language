@@ -1,2 +1,2 @@
 # programming-language
-Auhtor - Rushil Doshi(coding)
+Auhtor - Rushil Doshi
