@@ -1,4 +1,4 @@
-# programming-language
+# c-language
 Auhtor - Rushil Doshi
 
 C LANGUAGE
